@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Mahmoud Alaa</h1>
+<h3 align="center">A Software Engineer </h3>
 
-<!--
-**mahmoudalaa97/mahmoudalaa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalaa97" alt="Mahmoud Alaa" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://twitter.com/MahmoudAlaadev">
+  <img align="left" alt="Mahhmoud Alaa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/mahmoudalaa97">
+  <img align="left" alt="Mahmoud Alaa Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/mahmoudalaadev/">
+  <img align="left" alt="Mahmoud Alaa Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br/>
+<br/>
+
+- 🌱 I’m currently learning NodeJs.
+- 💬 Ask me about Flutter or Android Native .
+- 📫 How to reach me: [Twitter - @MahmoudAlaadev](https://twitter.com/MahmoudAlaadev) 
+
+[![Twitter: Mahmoud Alaa](https://img.shields.io/twitter/follow/mahmoudalaadev?style=social)](https://twitter.com/mahmoudalaadev)
+<br/>
+[![GitHub Mahmoud Alaa](https://img.shields.io/github/followers/mahmoudalaa97?label=follow&style=social)](https://github.com/mahmoudalaa97)
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/mahmoudalaa97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudalaa97&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/mahmoudalaa97">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalaa97&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+Some of Public Projects:
+<br/>
+<a href="https://github.com/mahmoudalaa97/FlutterLoginandSignup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=FlutterLoginandSignup&theme=dark" />
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
