@@ -42,7 +42,6 @@
 
 <h4 >Some of Public Projects: </h4>
 
-<br>
 <a href="https://github.com/mahmoudalaa97/FlutterLoginandSignup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=FlutterLoginandSignup&theme=dark" />
   </a>
