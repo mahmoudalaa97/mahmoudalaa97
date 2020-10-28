@@ -42,13 +42,13 @@
 
 **Some of Public Projects:**
 <br/>
+<br/>
 <a href="https://github.com/mahmoudalaa97/FlutterLoginandSignup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=FlutterLoginandSignup&theme=dark" />
   </a>
 <a href="https://github.com/mahmoudalaa97/parkr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=parkr&theme=dark" />
 </a>
-
 <br/>
 <div align="center">
 
