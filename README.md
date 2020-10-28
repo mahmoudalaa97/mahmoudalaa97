@@ -14,8 +14,8 @@
   <img align="left" alt="Mahmoud Alaa Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br/>
-<br/>
+<br>
+<br>
 
 - 🌱 I’m currently learning NodeJs.
 - 💬 Ask me about Flutter or Android Native .
@@ -26,7 +26,7 @@
 [![GitHub Mahmoud Alaa](https://img.shields.io/github/followers/mahmoudalaa97?label=follow&style=social)](https://github.com/mahmoudalaa97)
 
 
-**Languages and Tools:**  
+<h4>Languages and Tools:</h4>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -39,18 +39,17 @@
 <a href="https://github.com/mahmoudalaa97">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalaa97&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
-<br/>
 
-**Some of Public Projects:**
+<h4 >Some of Public Projects: </h4>
 
-<br/>
+<br>
 <a href="https://github.com/mahmoudalaa97/FlutterLoginandSignup">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=FlutterLoginandSignup&theme=dark" />
   </a>
 <a href="https://github.com/mahmoudalaa97/parkr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudalaa97&repo=parkr&theme=dark" />
 </a>
-<br/>
+<br>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
