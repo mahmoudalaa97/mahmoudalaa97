@@ -38,7 +38,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudalaa97&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/mahmoudalaa97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalaa97&show_icons=true&theme=dark&line_height=35" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudalaa97&show_icons=true&theme=dark&line_height=40" alt="Pawan's github stats"/>
 </a>
 
 <h4 >Some of Public Projects: </h4>
