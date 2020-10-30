@@ -17,7 +17,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning NodeJs.
+- 🌱 I’m currently learning Laravel.
 - 💬 Ask me about Flutter or Android Native .
 - 📫 How to reach me: [Twitter - @MahmoudAlaadev](https://twitter.com/MahmoudAlaadev) 
 
@@ -31,7 +31,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>    
 
 <a href="https://github.com/mahmoudalaa97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudalaa97&theme=dark&hide_langs_below=1" />
