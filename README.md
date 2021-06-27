@@ -5,13 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudalaa97" alt="Mahmoud Alaa" /> </p>
 
 <a href="https://twitter.com/MahmoudAlaadev">
-  <img align="left" alt="Mahhmoud Alaa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mahhmoud Alaa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style=" fill: #000;" />
 </a>
 <a href="https://github.com/mahmoudalaa97">
   <img align="left" alt="Mahmoud Alaa Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/mahmoudalaadev/">
   <img align="left" alt="Mahmoud Alaa Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mahmoudalaadev/">
+  <img align="left" alt="Mahmoud Alaa LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.mahmoudalaa.com/">
   <img align="left" alt="Mahmoud Alaa Website" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlechrome.svg" />
@@ -21,7 +24,7 @@
 <br>
 
 - 🔭 I’m currently working on MyStartup :wink: 
-- 🌱 I’m currently learning Laravel & Network Security.
+- 🌱 I’m currently learning Solid principles & Clean Architecture.
 - 💬 Ask me about Flutter or Android Native .
 - 📫 How to reach me: [Twitter - @MahmoudAlaadev](https://twitter.com/MahmoudAlaadev) 
 - 👨🏻‍💻 My Website : [https:mahmoudalaa.com](https:mahmoudalaa.com)
